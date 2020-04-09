@@ -5,6 +5,8 @@
 ## Build Setup
 
 ``` bash
+# init project
+vue init webpack my-project 
 # install dependencies
 npm install
 
